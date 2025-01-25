@@ -19,17 +19,14 @@
   <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50"/>  
   <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50"/>  
   <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>  
 </p>
 
 ---
 
 ### ⚙️ Backend Development  
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>    
 </p>
 
 ---
@@ -38,7 +35,6 @@
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50"/>  
   <img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50"/>  
 </p>
 
 ---
@@ -47,15 +43,14 @@
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>  
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50"/>  
 </p>
 
 ---
 
 ## 🌐 Find Me Online  
-- **Portfolio**: [Your Portfolio Link](#)  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **GitHub**: [Your GitHub Profile](#)  
+- **Portfolio**: [https://subhankarghosh8335.wixsite.com/subhankars-portfolio](#)  
+- **LinkedIn**: [www.linkedin.com/in/subhankar-ghosh-b33a23245](#)  
+- **GitHub**: [https://github.com/Subhankar-39](#)  
 
 ---
 
