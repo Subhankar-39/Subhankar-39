@@ -33,7 +33,6 @@
 ---
 
 ## 🌐 Find Me Online  
-- **Portfolio**: [https://subhankarghosh8335.wixsite.com/subhankars-portfolio](#)  
 - **LinkedIn**: [www.linkedin.com/in/subhankar-ghosh-b33a23245](#)  
 - **GitHub**: [https://github.com/Subhankar-39](#)  
 
