@@ -1,13 +1,7 @@
 # 👋 Hi, I'm Subhankar Ghosh  
-**An App Developer 🚀 working remotely since 2025**  
+**An Application Developer 🚀 Machine Learning Enthusiast**  
 
 ---
-
-## 🌟 About Me  
-- 👨‍💻 I am passionate about building user-friendly and innovative applications.  
-- 🌱 Currently exploring AI-based features in app development.  
-- 🚀 Experienced in creating scalable and responsive solutions.  
-
 
 
 
