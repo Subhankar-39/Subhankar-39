@@ -10,16 +10,41 @@
 ## 🛠️ Skill Set  
 
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/>  
+   <!-- Java -->
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="Java" height="50"/> 
+
+  <!-- Kotlin -->
   <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50"/>  
+
+  <!-- Python -->
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>  
+
+  <!-- Dart -->
   <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50"/> 
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>  
+
+  <!-- Flutter -->
+  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50"/>  
+
+  <!-- HTML -->
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" alt="HTML5" height="50"/>  
+
+  <!-- CSS -->
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" alt="CSS3" height="50"/>  
+
+  <!-- JavaScript -->
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>  
+
+  <!-- PHP -->
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"/>  
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge" height="30"/> 
+
+  <!-- ML -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" height="30"/>  
+
+  <!-- API -->
+  <img src="https://img.shields.io/badge/API-007EC6?style=for-the-badge" height="30"/>  
   
 </p>
 
